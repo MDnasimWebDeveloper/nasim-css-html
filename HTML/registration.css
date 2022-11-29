@@ -1,0 +1,52 @@
+div{
+    text-align: center;
+    background-color: darkcyan;
+   
+}
+h1{
+    font-size: 70px;
+    color: #ccc00c;
+}
+label{
+    color: rgb(255, 44, 100);
+    font-style: italic;
+    font-size: 30px;
+}
+input{
+    color:rgb(56, 0, 112) ;
+    background-color: aqua;
+}
+.gen{
+    color: rgb(234, 0, 0);
+    font-style: inherit;
+    font-size: 20px;
+}
+.dv{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: purple;
+}
+.reg{
+    color: coral;
+    background-color: aqua;
+}
+.reg:hover{
+    color: darkred;
+}
+.reg:active{
+    color: rgb(0, 255, 0);
+}
+a{
+    color: rgb(47, 0, 255);
+    background-color: rgb(203, 205, 200);
+}
+a:hover{
+    color: darkturquoise;
+}
+a:active{
+    color: black;
+}
+.op{
+    color: #ccc00c;
+    font-size: 20px;
+    font-style: italic;
+}

@@ -1,0 +1,38 @@
+div{
+    text-align: center;
+    background-color: #b664b0;
+    background-size: 20%;  
+}
+h2{
+    color: midnightblue;
+    font-size: 60px;
+}
+input{
+    background-color: cornflowerblue;
+}
+.res{
+    color: rgb(250, 195, 195);
+    background-color: rgb(52, 79, 102);
+}
+.res:hover{
+    color: rgb(25, 52, 255);
+}
+p{
+    color: deepskyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: rgb(10, 0, 209);
+}
+a:active{
+    color: darkblue;
+}
+a{
+    color: rgb(9, 193, 255);
+}
+.r {
+    color: blueviolet;
+}
+.l{
+    color: blueviolet;
+}

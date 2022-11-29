@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(186, 186, 186);
+    background-image: url(622335.png);
+    background-repeat: inherit;
+}
+div{
+    background-color: #ffffff00;
+    text-align: center;
+    border: 5px solid rgb(168, 131, 131);
+    position: relative;
+    width: 40%;
+    border-radius: 30px ;
+    left: 330px;
+    top: 20px;
+    bottom: 500px;
+    
+    box-shadow: 5px 5px 100px 10px  #4c1a1a;
+}
+img{
+    width: 300px;
+    
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+}
+label{
+    color: rgb(183, 119, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+input{
+    color: rgb(44, 36, 27);
+}
+.psudo{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: #4c1a1a;
+}
+.psudo:hover{
+    color: rgb(138, 236, 145);
+}
+a{
+    color: rgb(255, 0, 0);
+}
+a:hover{
+    color: chartreuse;
+}
+a:active{
+    color: beige;
+}
